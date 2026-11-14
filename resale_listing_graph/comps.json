@@ -1,0 +1,20 @@
+[
+  {"title": "Levi's denim jacket medium light wash", "brand": "Levi's", "category": "clothing", "price": 32.0, "condition": "good", "url": "https://example.com/mock/1"},
+  {"title": "Levi's trucker denim jacket small dark wash", "brand": "Levi's", "category": "clothing", "price": 38.0, "condition": "very good", "url": "https://example.com/mock/2"},
+  {"title": "Levi's denim jacket large faded", "brand": "Levi's", "category": "clothing", "price": 28.0, "condition": "satisfactory", "url": "https://example.com/mock/3"},
+  {"title": "Zara wool blend coat medium camel", "brand": "Zara", "category": "clothing", "price": 45.0, "condition": "very good", "url": "https://example.com/mock/4"},
+  {"title": "H&M knit cardigan medium grey", "brand": "H&M", "category": "clothing", "price": 12.0, "condition": "good", "url": "https://example.com/mock/5"},
+  {"title": "Kindle Paperwhite 8GB 10th generation", "brand": "Amazon", "category": "electronics", "price": 55.0, "condition": "good", "url": "https://example.com/mock/6"},
+  {"title": "Kindle Paperwhite 8GB with case", "brand": "Amazon", "category": "electronics", "price": 62.0, "condition": "very good", "url": "https://example.com/mock/7"},
+  {"title": "Kindle basic e-reader 6 inch", "brand": "Amazon", "category": "electronics", "price": 35.0, "condition": "good", "url": "https://example.com/mock/8"},
+  {"title": "JBL Flip 5 bluetooth speaker blue", "brand": "JBL", "category": "electronics", "price": 48.0, "condition": "good", "url": "https://example.com/mock/9"},
+  {"title": "Ceramic vase white 25 cm", "brand": "IKEA", "category": "home decor", "price": 9.0, "condition": "very good", "url": "https://example.com/mock/10"},
+  {"title": "Round wall mirror gold frame 50 cm", "brand": "Unbranded", "category": "home decor", "price": 30.0, "condition": "good", "url": "https://example.com/mock/11"},
+  {"title": "Woven basket set of 3 natural", "brand": "Unbranded", "category": "home decor", "price": 18.0, "condition": "good", "url": "https://example.com/mock/12"},
+  {"title": "Fossil leather shoulder bag brown", "brand": "Fossil", "category": "handbags", "price": 48.0, "condition": "good", "url": "https://example.com/mock/13"},
+  {"title": "Coach leather hobo shoulder bag tan", "brand": "Coach", "category": "handbags", "price": 85.0, "condition": "very good", "url": "https://example.com/mock/14"},
+  {"title": "Kate Spade leather satchel shoulder bag black", "brand": "Kate Spade", "category": "handbags", "price": 62.0, "condition": "good", "url": "https://example.com/mock/15"},
+  {"title": "Leather hobo shoulder bag brown flap", "brand": "Unbranded", "category": "handbags", "price": 35.0, "condition": "good", "url": "https://example.com/mock/16"},
+  {"title": "Dooney and Bourke leather shoulder bag taupe", "brand": "Dooney & Bourke", "category": "handbags", "price": 110.0, "condition": "very good", "url": "https://example.com/mock/17"},
+  {"title": "Nine West faux leather shoulder bag grey", "brand": "Nine West", "category": "handbags", "price": 22.0, "condition": "satisfactory", "url": "https://example.com/mock/18"}
+]
