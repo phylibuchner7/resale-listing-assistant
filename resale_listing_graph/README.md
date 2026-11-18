@@ -61,8 +61,8 @@ python -m pytest
 
 Manual end-to-end checks in `adk web`:
 
-- [ ] Attach photos: the photo review lists what it can see and what it cannot tell.
-- [ ] Leave out the price: the agent pauses and asks for one.
-- [ ] A draft with an invented detail is rejected by `fact_check` and revised.
-- [ ] Answer "no" at the final confirmation: nothing is saved.
-- [ ] Answer "yes": the listing is saved to `outputs\listings\`.
+- [x] Attach photos: the photo review lists what it can see and what it cannot tell.
+- [x] Leave out the price: the agent pauses and asks for one.
+- [x] The buyer critic rejects a draft and the drafter revises it.
+- [x] Answer "no" at the final confirmation: nothing is saved.
+- [x] Answer "yes": the listing is saved to `outputs\listings\`.
